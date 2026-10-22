@@ -10,7 +10,7 @@ We're an independent studio in Warsaw, Poland, making party games for the living
 
 **Vinylo** is a music party game. A song plays and you guess the year it came out to place it on your timeline. In the second mode you name the song after hearing 1, 3, 7 or 15 seconds of it.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.pixlife.vinylo)
+[App Store](https://apps.apple.com/ie/app/vinylo-music-party-game/id6818365747) · [Google Play](https://play.google.com/store/apps/details?id=com.pixlife.vinylo)
 
 **Timelo** is a history party game. A narrator reads out a moment from history and you decide where it goes on your timeline, before or after the cards you already have. The TV is optional.
 
